@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(226, 220, 226);
+}
+.logo{
+    margin-left: 150px ;
+    margin-top: 14px;
+    
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+ul li{
+    list-style: none;
+}
+nav{
+    background-color: white;
+}
+.btn{
+    margin-right: 140px ;
+    padding: 20px 20px;
+}
+nav ul li button{
+     width: 100px;
+     height: 40px;
+     border-radius: 5px;
+     background-color: black;
+     color: whi;
+     
+}
+
+/* table css */
+table{
+    border-collapse: collapse;
+    height: 500px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+td,th{
+    text-align: center;
+    
+}
+h4{
+    margin-left: 400px;
+    padding: 20px 30px;
+    
+}
+footer p{
+    margin-left: 45%;
+    margin-top: 65px;
+    
+    
+    
+}
+footer{
+    background-color: aliceblue;
+    
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+
